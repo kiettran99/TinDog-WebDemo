@@ -1,2 +1,1 @@
-# TinDog-WebDemo
-Project Demo
+TinDog Starting Files
